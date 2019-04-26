@@ -1,0 +1,24 @@
+{
+    "discord": {
+        "token": "NTYzNzU0Njg0NDgxNzk4MTU0.XKfoJA.74kJmZUNzhCxEqlvstfsreTaUpA",
+        "prefix": "!"
+    },
+    "twitch": {
+        "options": {
+            "debug": true
+        },
+        "connection": {
+            "reconnect": true
+        },
+        "identity": {
+            "username": "bruvicoso_test",
+            "password": "oauth:g7ogn0be9ptpy5mzib3hew4yc1gfja"
+        },
+        "id_client": [
+            "m3u6v60w8ga6zsz69np6hyv7nfc4m3"
+        ],
+        "channels": [
+            "#bruvicoso_test"
+        ]
+    }
+}
